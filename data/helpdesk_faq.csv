@@ -1,0 +1,13 @@
+doc_id,category,question,answer
+FAQ-001,shipping,When will my order ship?,Orders typically ship within two business days after payment confirmation.
+FAQ-002,shipping,How do I track an order?,Use the tracking link in your shipping confirmation email.
+FAQ-003,returns,What is the return window?,Unused items may be returned within 30 days of delivery.
+FAQ-004,returns,How do refunds work?,"Refunds are issued to the original payment method after inspection, typically within five business days."
+FAQ-005,billing,Can I change my payment method?,You can update payment methods in Account Settings before placing a new order.
+FAQ-006,billing,Where can I find an invoice?,Invoices are available under Account > Orders > Invoice.
+FAQ-007,account,How do I reset my password?,Select Forgot Password on the sign-in page and follow the emailed reset link.
+FAQ-008,account,How do I delete my account?,Contact support to request account deletion and identity verification.
+FAQ-009,privacy,How is my personal data used?,"Personal data is used for order fulfillment, account support, and stated service operations."
+FAQ-010,privacy,Can I download my account data?,Submit a data export request through the privacy settings page.
+FAQ-011,support,What are support hours?,"Support is available Monday through Friday, 9 AM to 6 PM Eastern."
+FAQ-012,support,How do I contact support?,Use the Help Center contact form to submit a support ticket.
